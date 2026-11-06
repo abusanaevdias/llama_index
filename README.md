@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [run-llama/llama_index](https://github.com/run-llama/llama_index) · MIT
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 # 🗂️ LlamaIndex Framework 🦙
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-index)](https://pypi.org/project/llama-index/)
